@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/535
     wikipedia: http://en.wikipedia.org/wiki/Ernest_Thompson_Seton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30313#The-Preacher-of-Cedar-Mountain--A-Tale-of-the-Open-Country
 gutenberg_issued: '2009-10-22'
 gutenberg_type: Text
 identifiers:
